@@ -1,0 +1,27 @@
+---
+
+-
+  slug: about
+  title: About
+  text: |
+    # Hello
+
+    I’m Sunny and this is my portfolio. If you like what you see here, you can hire me! And I will make things for you.
+
+    ### Areas of expertise
+
+      - Character design
+      - Comics
+      - Print and editorial design
+
+-
+  slug: contact
+  title: Contact
+  text: |
+    Email me at <lai.x.sunny@gmail.com>
+
+    ### Elsewhere
+
+      - [Facebook](http://facebook.com/robotswan)
+      - [Tumblr](http://robotswan.tumblr.com)
+      - [Twitter](http://twitter.com/robotswan)

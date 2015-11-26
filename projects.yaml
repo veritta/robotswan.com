@@ -23,12 +23,8 @@
 -
   slug: airlock-403
   title: Airlock 403
-  date: 2012-09-29
   thumbnail: '/images/projects/airlock403_thumb.jpg'
   main_image: '/images/projects/airlock403.jpg'
-  secondary_images:
-    - '/images/projects/a403-prelimsketches.jpg'
-    - '/images/projects/a403-finalsketches'
   description: |
     A typeface design for a university project based on the shape of aircraft.
 
@@ -43,5 +39,3 @@
     - '/images/projects/scrawl-flashback-closeup.jpg'
   description: |
     A comic project done in university. Students were to create a narrative based on a word of choice from a given list; I chose 'scrawl'.
-
-...
