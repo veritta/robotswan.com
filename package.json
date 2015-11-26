@@ -1,0 +1,23 @@
+{
+  "name": "robotswan.com",
+  "version": "1.0.0",
+  "description": "the first SERIOUS PORTFOLIO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veritta/robotswan.com.git"
+  },
+  "author": "Sunny Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veritta/robotswan.com/issues"
+  },
+  "homepage": "https://github.com/veritta/robotswan.com#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "yamljs": "^0.2.4"
+  }
+}
