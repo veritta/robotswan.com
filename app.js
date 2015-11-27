@@ -1,31 +1,44 @@
 var express = require('express');
 var YAML = require('yamljs');
-
+var swig = require('swig');
 
 // Load yaml file using YAML.load
-var projects = YAML.load('projects.yaml');
+var projects = YAML.load('data/projects.yaml');
+var pages = YAML.load('data/pages.yaml');
 
-
+// runs express function to create express app
 var app = express();
+
+// add swig to app
+app.engine('swig', swig.renderFile);
+app.set('view engine', 'swig');
+app.set('views', __dirname + '/views');
+
+// Disable cache
+app.set('view cache', false);
+swig.setDefaults({ cache: false });
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/', function(req, res) {
-
-	console.log("someone's visiting the homepage");
-
 	res.send('this is the HOMEPAGE');
 });
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/portfolio', function(req, res) {
-	res.send(projects);
+	res.render('portfolio.swig', {projects: projects});
 });
 
-// showing individual project pages
+// showing individual projects
 projects.forEach(function(project) {
-	console.log(project.slug);
 	app.get('/portfolio/'+project.slug, function(req, res) {
 		res.send(project);
+	});
+});
+
+// showing individual pages
+pages.forEach(function(page) {
+	app.get('/'+page.slug, function(req, res) {
+		res.send(page);
 	});
 });
 
