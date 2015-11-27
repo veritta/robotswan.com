@@ -1,0 +1,11 @@
+{% extends "_layout.swig" %}
+
+{% block title %}{{page.title}}{% endblock %}
+
+{% block content %}
+	<h1>{{page.title}}</h1>
+
+	{{page.text|markdown}}
+
+{% endblock %}
+

@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Portfolio</title>
-</head>
-<body>
+{% extends "_layout.swig" %}
+
+{% block title %}Portfolio{% endblock %}
+
+{% block content %}
 
 	<ul>
 		{% for project in projects %}
@@ -11,5 +10,4 @@
 		{% endfor %}
 	</ul>
 
-</body>
-</html>
+{% endblock %}
