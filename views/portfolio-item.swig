@@ -6,6 +6,7 @@
 
 	<h1>{{project.title}}</h1>
 
+	{{project.blurb|markdown}}
 	{{project.description|markdown}}
 
 {% endblock %}

@@ -1,41 +1,43 @@
 ---
 
 -
-  slug: small-square-book
-  title: Small Square Book
-  date: 2012-09-12
+  slug: spine
+  title: Spine
   thumbnail: '/images/projects/smallsquarebook_thumb.jpg'
-  main_image: '/images/projects/smallsquarebook.jpg'
-  secondary_images:
-    - '/images/projects/ssb-atalanta.jpg'
-    - '/images/projects/ssb-atlas.jpg'
-    - '/images/projects/ssb-icarus.jpg'
+  images:
+  blurb: |
+    *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, amateurs, and casual enthusiasts alike.
   description: |
-    # Greek mythology in everyday objects.
+    As part of an editorial project, three covers were created to suit the themes of ‘typography’, ‘poetry in motion’, and ‘women in graphic design’. A further component was the design of two articles which would be contained in the typography issue.
 
-    A university project.
-
-      - 36 page book
-      - graphic sequence of some kind
-      - chose characters from Greek mythology
-      - represented by modern-day mundane objects
+    *Spine* combines bold shapes and colours with strong typography to form eye-catching visuals that both reflect editorial content and target audience.
 
 -
   slug: airlock-403
   title: Airlock 403
   thumbnail: '/images/projects/airlock403_thumb.jpg'
-  main_image: '/images/projects/airlock403.jpg'
+  images:
+  blurb: |
+    *Airlock 403* is a custom typeface designed from scratch.
   description: |
-    A typeface design for a university project based on the shape of aircraft.
+    As suggested by its name, the visual inspiration for this design comes from the mechanical components of air- and spacecraft. Accordingly, Airlock 403 is characterised by strong geometric shapes, subtle curves, and a suggestion of weight and interlocking parts.
 
 -
-  slug: scrawl
-  title: Scrawl
-  date: 2013-04-20
+  slug: chromatic-kingdom
+  title: Chromatic Kingdom
   thumbnail: '/images/projects/scrawl_thumb.jpg'
-  main_image: '/images/projects/scrawl.jpg'
-  secondary_images:
-    - '/images/projects/scrawl-signing-closeup.jpg'
-    - '/images/projects/scrawl-flashback-closeup.jpg'
+  images:
+  blurb: |
+    *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
-    A comic project done in university. Students were to create a narrative based on a word of choice from a given list; I chose 'scrawl'.
+    This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
+
+-
+  slug: chromatic-kingdom
+  title: The Swan Cipher
+  thumbnail: '/images/projects/scrawl_thumb.jpg'
+  images:
+  blurb: |
+    *The Swan Cipher* refers to a fictional universe set in a 20th-century analogue.
+  description: |
+    [Svenja & co]
