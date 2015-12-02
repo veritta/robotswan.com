@@ -1,4 +1,4 @@
-{% extends "_layout.swig" %}
+{% extends "_layout.nunjucks" %}
 
 {% block content %}
 	hello this is the robot swan site

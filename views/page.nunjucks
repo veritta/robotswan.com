@@ -1,4 +1,4 @@
-{% extends "_layout.swig" %}
+{% extends "_layout.nunjucks" %}
 
 {% block title %}{{page.title}}{% endblock %}
 
@@ -8,4 +8,3 @@
 	{{page.text|markdown}}
 
 {% endblock %}
-

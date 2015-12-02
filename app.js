@@ -1,8 +1,7 @@
 var express = require('express');
 var YAML = require('yamljs');
-var swig = require('swig');
-var extras = require('swig-extras');
-extras.useFilter(swig, 'markdown');
+var nunjucks = require('nunjucks');
+var marked = require('marked');
 
 
 // Load yaml file using YAML.load
@@ -12,36 +11,39 @@ var pages = YAML.load('data/pages.yaml');
 // runs express function to create express app
 var app = express();
 
-// add swig to app
-app.engine('swig', swig.renderFile);
-app.set('view engine', 'swig');
-app.set('views', __dirname + '/views');
+// nunjucks stuff
+var env = nunjucks.configure('views', {
+	express: app,
+	noCache: true
+});
+env.addFilter('markdown', function(str) {
+	return new nunjucks.runtime.SafeString(marked(str));
+});
 
 // Disable cache
 app.set('view cache', false);
-swig.setDefaults({ cache: false });
 
-// respond with "hello world" when a GET request is made to the homepage
+// show HOME
 app.get('/', function(req, res) {
-	res.render('home.swig');
+	res.render('home.nunjucks');
 });
 
-// respond with "hello world" when a GET request is made to the homepage
+// show PORTFOLIO
 app.get('/portfolio', function(req, res) {
-	res.render('portfolio.swig', {'projects': projects});
+	res.render('portfolio.nunjucks', {'projects': projects});
 });
 
-// showing individual projects
+// show PORTFOLIO ITEM
 projects.forEach(function(project) {
 	app.get('/portfolio/'+project.slug, function(req, res) {
-		res.render('portfolio-item.swig', {'project': project});
+		res.render('portfolio-item.nunjucks', {'project': project});
 	});
 });
 
-// showing individual pages
+// show PAGE
 pages.forEach(function(page) {
 	app.get('/'+page.slug, function(req, res) {
-		res.render('page.swig', {'page': page});
+		res.render('page.nunjucks', {'page': page});
 	});
 });
 

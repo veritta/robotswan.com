@@ -18,8 +18,8 @@
   "homepage": "https://github.com/veritta/robotswan.com#readme",
   "dependencies": {
     "express": "^4.13.3",
-    "swig": "^1.4.2",
-    "swig-extras": "0.0.1",
+    "marked": "^0.3.5",
+    "nunjucks": "^2.2.0",
     "yamljs": "^0.2.4"
   }
 }
