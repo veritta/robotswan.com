@@ -5,17 +5,17 @@
 {% block content %}
 
 	<div class="splash">
-	
-		<h1 class="big">Robot Swan</h1>	
-		
+
+		<h1 class="big">Robot Swan</h1>
+
 		<p class="big">art &amp; design by Sunny X. Lai</p>
 
 		<nav class="nav nav--big nav--inverted">
 			<a href="/portfolio" class="nav__item">Portfolio</a>
 			<a href="/about" class="nav__item">About</a>
 			<a href="/contact" class="nav__item">Contact</a>
-		</nav>
 
+		</nav>
 	</div>
 
 {% endblock %}

@@ -2,7 +2,6 @@
 
 {% block title %}{{project.title}}{% endblock %}
 
-
 {% block content %}
 
 	<article class="portfolioItem">
@@ -10,7 +9,7 @@
 		<h2 class="portfolioItem__title">{{project.title}}</h2>
 
 		<div class="portfolioItem__blurb">{{project.blurb|markdown}}</div>
-		
+
 		<div class="portfolioItem__imageList">
 			{% for image in project.images %}
 				<img src="{{image}}">

@@ -9,5 +9,5 @@
 	<article>
 		{{page.text|markdown}}
 	</article>
-	
+
 {% endblock %}
