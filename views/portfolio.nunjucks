@@ -1,6 +1,6 @@
 {% extends "_layout.nunjucks" %}
 
-{% block title %}Portfolio{% endblock %}
+{% set title = 'Portfolio' %}
 
 {% block content %}
 

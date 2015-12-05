@@ -1,7 +1,5 @@
 {% extends "_layout.nunjucks" %}
 
-{% block full_title %}ROBOT SWAN{% endblock %}
-
 {% block header %}{% endblock %}
 
 {% block content %}

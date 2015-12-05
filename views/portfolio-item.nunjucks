@@ -1,6 +1,6 @@
 {% extends "_layout.nunjucks" %}
 
-{% block title %}{{project.title}}{% endblock %}
+{% set title = project.title %}
 
 {% block content %}
 
