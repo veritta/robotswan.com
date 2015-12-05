@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>{% block title %}ROBOT SWAN{% endblock %}</title>
+	<title>{% block full_title %}{% block title %}{% endblock %} | ROBOT SWAN{% endblock %}</title>
 </head>
 <body>
 
