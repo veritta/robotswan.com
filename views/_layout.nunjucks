@@ -5,11 +5,20 @@
 </head>
 <body>
 
-	<ul>
-		<li><a href="/portfolio">Portfolio</a></li>
-		<li><a href="/about">About</a></li>
-		<li><a href="/contact">Contact</a></li>
-	</ul>
+	{% block header %}
+
+		<header>
+
+			<h1><a href="/">Robot Swan</a></h1>
+
+			<nav class="nav">
+				<a href="/portfolio" class="nav__item">Portfolio</a>
+				<a href="/about" class="nav__item">About</a>
+				<a href="/contact" class="nav__item">Contact</a>
+			</nav>	
+		</header>
+
+	{% endblock %}
 
 	{% block content %}{% endblock %}
 

@@ -4,10 +4,20 @@
 
 {% block content %}
 
-	<ul>
+	<h2 class="textured">Portfolio</h2>
+
+	<div class="thumbGroup">
+
 		{% for project in projects %}
-			<li><a href="/portfolio/{{project.slug}}">{{project.title}}</a></li>
+
+			<a href="/portfolio/{{project.slug}}" class="thumbGroup__item">
+				<h3 class="thumbGroup__item__label">{{project.title}}</h3>
+				<img src="{{project.thumbnail}}" class="thumbGroup__item__image"></img>
+			</a>
+
 		{% endfor %}
-	</ul>
+
+	</div>	
+
 
 {% endblock %}

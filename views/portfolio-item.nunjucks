@@ -2,11 +2,23 @@
 
 {% block title %}{{project.title}}{% endblock %}
 
+
 {% block content %}
 
-	<h1>{{project.title}}</h1>
+	<article class="portfolioItem">
 
-	{{project.blurb|markdown}}
-	{{project.description|markdown}}
+		<h2 class="portfolioItem__title">{{project.title}}</h2>
+
+		<div class="portfolioItem__blurb">{{project.blurb|markdown}}</div>
+		
+		<div class="portfolioItem__imageList">
+			{% for image in project.images %}
+				<img src="{{image}}">
+			{% endfor %}
+		</div>
+
+		<div class="portfolioItem__decscription">{{project.description|markdown}}</div>
+
+	</article>
 
 {% endblock %}

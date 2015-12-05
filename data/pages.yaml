@@ -4,15 +4,14 @@
   slug: about
   title: About
   text: |
-    # Hello
+    ### Hello.
 
     I’m Sunny and this is my portfolio. If you like what you see here, you can hire me! And I will make things for you.
 
     ### Areas of expertise
 
-      - Character design
-      - Comics
       - Print and editorial design
+      - Illustration
 
 -
   slug: contact

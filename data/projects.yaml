@@ -3,8 +3,11 @@
 -
   slug: spine
   title: Spine
-  thumbnail: '/images/projects/smallsquarebook_thumb.jpg'
+  thumbnail: 'https://placekitten.com/g/360/240'
   images:
+    - 'http://placekitten.com/g/700/700'
+    - 'http://placekitten.com/g/700/900'
+    - 'http://placekitten.com/g/700/500'
   blurb: |
     *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, amateurs, and casual enthusiasts alike.
   description: |
@@ -15,8 +18,9 @@
 -
   slug: airlock-403
   title: Airlock 403
-  thumbnail: '/images/projects/airlock403_thumb.jpg'
+  thumbnail: 'https://placekitten.com/g/360/240'
   images:
+    - 'http://placekitten.com/g/700/550'
   blurb: |
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
@@ -25,18 +29,26 @@
 -
   slug: chromatic-kingdom
   title: Chromatic Kingdom
-  thumbnail: '/images/projects/scrawl_thumb.jpg'
+  thumbnail: 'https://placekitten.com/g/360/240'
   images:
+    - 'http://placekitten.com/g/700/700'
+    - 'http://placekitten.com/g/700/800'
+    - 'http://placekitten.com/g/700/400'
+    - 'http://placekitten.com/g/700/300'
   blurb: |
     *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
     This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
 
 -
-  slug: chromatic-kingdom
+  slug: the-swan-cipher
   title: The Swan Cipher
-  thumbnail: '/images/projects/scrawl_thumb.jpg'
-  images:
+  thumbnail: 'https://placekitten.com/g/360/240'
+  images: 
+    - 'http://placekitten.com/g/700/900'
+    - 'http://placekitten.com/g/700/850'
+    - 'http://placekitten.com/g/700/500'
+    - 'http://placekitten.com/g/700/700'
   blurb: |
     *The Swan Cipher* refers to a fictional universe set in a 20th-century analogue.
   description: |
