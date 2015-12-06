@@ -6,6 +6,11 @@ html {
 	font-family: "freight-sans-pro", sans-serif;
 }
 
+.wrap {
+	max-width: 1160px;
+	margin: 0 auto;
+}
+
 h1 {
 	color: #ef0324;
 	font-family: "alternate-gothic-no-3-d", sans-serif;
@@ -21,13 +26,38 @@ h1 a {
 	text-decoration: inherit;
 }
 
+h2.textured {
+
+}
+
+/* SPLASH */
+
 .splash {
 	background-color: #f65663;
+	background-image: url(/image/splash.jpg);
+	background-position: center center;
+	background-size: cover;
+	color: white;
 	max-width: 1100px;
-	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 200px 50px;
+	padding: 230px 50px 150px;
+	text-align: center;
+}
+
+.splash h1 {
+	border-bottom: 1px solid white;
+	color: white;
+	font-size: 10.75em;
+	line-height: 0.9;
+	margin: 0 auto;
+	max-width: 4.85em;
+}
+
+
+.splash p {
+	font-size: 2em;
+	margin: 0.4em auto 0.6em;
 }
 
 

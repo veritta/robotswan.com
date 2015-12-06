@@ -9,23 +9,27 @@
 </head>
 <body>
 
-	{% block header %}
+	<div class="wrap">
 
-		<header>
+		{% block header %}
 
-			<h1><a href="/">Robot Swan</a></h1>
+			<header>
 
-			<nav class="nav">
-				<a href="/portfolio" class="nav__item">Portfolio</a>
-				<a href="/about" class="nav__item">About</a>
-				<a href="/contact" class="nav__item">Contact</a>
-			</nav>
+				<h1><a href="/">Robot Swan</a></h1>
 
-		</header>
+				<nav class="nav">
+					<a href="/portfolio" class="nav__item">Portfolio</a>
+					<a href="/about" class="nav__item">About</a>
+					<a href="/contact" class="nav__item">Contact</a>
+				</nav>
 
-	{% endblock %}
+			</header>
 
-	{% block content %}{% endblock %}
+		{% endblock %}
+
+		{% block content %}{% endblock %}
+
+	</div>
 
 </body>
 </html>

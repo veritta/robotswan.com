@@ -6,7 +6,7 @@
 
 	<h2 class="textured">{{page.title}}</h2>
 
-	<article>
+	<article class="thin">
 		{{page.text|markdown}}
 	</article>
 
