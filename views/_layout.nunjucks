@@ -2,6 +2,10 @@
 <html>
 <head>
 	<title>{% if title %}{{title}} | {% endif %}ROBOT SWAN</title>
+	<link rel="stylesheet" href="/css/global.css">
+
+	<script src="https://use.typekit.net/mum5sma.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>
 <body>
 

@@ -23,6 +23,9 @@ env.addFilter('markdown', function(str) {
 // Disable cache
 app.set('view cache', false);
 
+// make PUBLIC folder assets accessible by client
+app.use(express.static('public'));
+
 // show HOME
 app.get('/', function(req, res) {
 	res.render('home.nunjucks');
