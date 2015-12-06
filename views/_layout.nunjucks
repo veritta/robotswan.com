@@ -2,6 +2,8 @@
 <html>
 <head>
 	<title>{% if title %}{{title}} | {% endif %}ROBOT SWAN</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
 	<link rel="stylesheet" href="/css/global.css">
 
 	<script src="https://use.typekit.net/mum5sma.js"></script>
