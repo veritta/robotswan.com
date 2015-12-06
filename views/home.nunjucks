@@ -8,15 +8,12 @@
 
 		<h1>Robot Swan</h1>
 
-		<div class="line-separator"></div>
-
 		<p>art &amp; design by Sunny X. Lai</p>
 
 		<nav class="nav nav--big">
 			<a href="/portfolio" class="nav__item">Portfolio</a>
 			<a href="/about" class="nav__item">About</a>
 			<a href="/contact" class="nav__item">Contact</a>
-
 		</nav>
 	</div>
 

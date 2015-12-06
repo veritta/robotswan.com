@@ -6,7 +6,7 @@
 
 	<h2 class="textured">{{page.title}}</h2>
 
-	<article class="thin">
+	<article class="wrap wrap--thin">
 		{{page.text|markdown}}
 	</article>
 
