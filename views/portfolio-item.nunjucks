@@ -6,9 +6,12 @@
 
 	<article class="portfolioItem">
 
-		<h2 class="portfolioItem__title">{{project.title}}</h2>
+		<div class="portfolioItem__leader">
+			<h2 class="portfolioItem__title">{{project.title}}</h2>
 
-		<div class="portfolioItem__blurb">{{project.blurb|markdown}}</div>
+			<div class="portfolioItem__blurb">{{project.blurb|markdown}}</div>
+		</div>
+
 
 		<div class="portfolioItem__imageList">
 			{% for image in project.images %}
@@ -16,7 +19,7 @@
 			{% endfor %}
 		</div>
 
-		<div class="portfolioItem__decscription">{{project.description|markdown}}</div>
+		<div class="portfolioItem__description">{{project.description|markdown}}</div>
 
 	</article>
 
