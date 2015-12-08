@@ -11,6 +11,17 @@ body {
 	margin-bottom: 0;
 }
 
+.wf-loading h1,
+.wf-loading h2,
+.wf-loading .nav {
+	visibility: hidden;
+}
+
+.wf-loading .splash h1 {
+	font-size: 9em;
+	max-width: none;
+}
+
 .wrap {
 	margin: 0 auto;
 	max-width: 1160px;
