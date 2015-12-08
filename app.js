@@ -33,7 +33,7 @@ app.get('/', function(req, res) {
 
 // show PORTFOLIO
 app.get('/portfolio', function(req, res) {
-	res.render('portfolio.nunjucks', {'projects': projects});
+	res.render('portfolio.nunjucks', {'projects': projects, 'selectedNav': '/portfolio'});
 });
 
 // show PORTFOLIO ITEM
@@ -46,7 +46,7 @@ projects.forEach(function(project) {
 // show PAGE
 pages.forEach(function(page) {
 	app.get('/'+page.slug, function(req, res) {
-		res.render('page.nunjucks', {'page': page});
+		res.render('page.nunjucks', {'page': page, 'selectedNav': '/'+page.slug});
 	});
 });
 
