@@ -69,6 +69,13 @@ h2 {
 	text-transform: uppercase;
 }
 
+@media (max-width: 860px) {
+	h2 {
+		font-size: 2.5em;
+		padding-top: 0.2em;
+	}
+}
+
 h3 {
 	font-family: "freight-sans-pro", sans-serif;
 	font-size: 1.5em;
@@ -117,6 +124,19 @@ h3 {
 	text-transform: uppercase;
 }
 
+@media (max-width: 860px) {
+	.thumbGroup__item {
+		flex-basis: calc(50% - 2em);
+	}
+}
+
+@media (max-width: 480px) {
+	.thumbGroup__item {
+		flex-basis: calc(100% - 2em);
+	}
+}
+
+
 /* PORTFOLIO ITEM */
 
 .portfolioItem {
@@ -160,6 +180,20 @@ h3 {
 	clear: right;
 }
 
+@media (max-width: 860px) {
+	.portfolioItem__leader,
+	.portfolioItem__description,
+	.portfolioItem__imageList {
+		float: none;
+		width: auto;
+		padding-left: 0;
+	}
+
+	.portfolioItem__blurb {
+		margin-bottom: 1em;
+	}
+}
+
 /* SPLASH */
 
 .splash {
@@ -187,6 +221,28 @@ h3 {
 .splash p {
 	font-size: 2em;
 	margin: 0.4em auto 0.6em;
+}
+
+@media (max-width: 860px) {
+	.splash {
+		padding: 110px 20px 50px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+	}
+
+	.splash h1 {
+		font-size: 5em;
+		font-size: 15vw;
+	}
+
+	.splash p {
+		font-size: 1.5em;
+		font-size: 5vw;
+		margin: 0.2em auto 0.4em;
+	}
 }
 
 /* HEADER */
@@ -235,3 +291,10 @@ header {
 	background-color: #f7666e;
 	color: white;
 }
+
+@media (max-width: 550px) {
+	.nav--big {
+		font-size: 1.25em;
+	}
+}
+
