@@ -3,11 +3,11 @@
 -
   slug: spine
   title: Spine
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452350220/robotswan.com/spine.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452350220/robotswan.com/thumbnails/spine.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452350467/robotswan.com/spine-covers.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452355393/robotswan.com/spine-cg-obliquespread.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452352417/robotswan.com/spine-fm-obliquespread.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452350467/robotswan.com/spine-covers.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452355393/robotswan.com/spine-cg-obliquespread.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452352417/robotswan.com/spine-fm-obliquespread.png'
   blurb: |
     *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, amateurs, and casual enthusiasts alike.
   description: |
@@ -18,62 +18,63 @@
 -
   slug: chromatic-kingdom
   title: Chromatic Kingdom
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452356087/robotswan.com/chromatickingdom.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452356087/robotswan.com/thumbnails/chromatickingdom.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452344322/robotswan.com/PartyPigeon_robotswan.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452344322/robotswan.com/aceaquila_robotswan.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452355845/robotswan.com/thylacines.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344322/robotswan.com/PartyPigeon_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344322/robotswan.com/aceaquila_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452355845/robotswan.com/thylacines.png'
   blurb: |
-    *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
+    *Chromatic Kingdom* is an experimental 6illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
     This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
 
 -
   slug: airlock-403
   title: Airlock 403
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452362762/robotswan.com/Airlock403.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452374561/robotswan.com/thumbnails/Airlock403.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/v1452362559/robotswan.com/Airlock403.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452375003/robotswan.com/Airlock403.png'
   blurb: |
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
     As suggested by its name, the visual inspiration for this design comes from the mechanical components of air- and spacecraft. Accordingly, Airlock 403 is characterised by strong geometric shapes, subtle curves, and a suggestion of weight and interlocking parts.
 
--
-  slug: the-swan-cipher
-  title: The Swan Cipher
-  thumbnail: 'https://placekitten.com/g/360/240'
-  images:
-    - 'http://placekitten.com/g/700/900'
-    - 'http://placekitten.com/g/700/850'
-    - 'http://placekitten.com/g/700/500'
-  blurb: |
-    *The Swan Cipher* refers to a fictional universe set in a 20th-century analogue.
-  description: |
-    [Svenja & co]
+# -
+#   slug: the-swan-cipher
+#   title: The Swan Cipher
+#   thumbnail: 'https://placekitten.com/g/360/240'
+#   images:
+#     - 'http://placekitten.com/g/700/900'
+#     - 'http://placekitten.com/g/700/850'
+#     - 'http://placekitten.com/g/700/500'
+#   blurb: |
+#     *The Swan Cipher* refers to a fictional universe set in a 20th-century analogue.
+#   description: |
+#     [Svenja & co]
 
--
-  slug: sugar-glass-crush
-  title: Sugar Glass Crush
-  thumbnail: 'https://placekitten.com/g/360/240'
-  images:
-    - 'http://placekitten.com/g/700/900'
-    - 'http://placekitten.com/g/700/850'
-    - 'http://placekitten.com/g/700/500'
-    - 'http://placekitten.com/g/700/700'
-  blurb: |
-   *Sugar Glass Crush* is the name of a story set in a high-tech future, centred on protagonists with superhuman abilities.
-  description: |
-    [Sasha, Rae, & co]
+# -
+#   slug: sugar-glass-crush
+#   title: Sugar Glass Crush
+#   thumbnail: 'https://placekitten.com/g/360/240'
+#   images:
+#     - 'http://placekitten.com/g/700/900'
+#     - 'http://placekitten.com/g/700/850'
+#     - 'http://placekitten.com/g/700/500'
+#     - 'http://placekitten.com/g/700/700'
+#   blurb: |
+#    *Sugar Glass Crush* is the name of a story set in a high-tech future, centred on protagonists with superhuman abilities.
+#   description: |
+#     [Sasha, Rae, & co]
 
--
-  slug: personal-branding
-  title: Personal Branding
-  thumbnail: 'https://placekitten.com/g/360/240'
-  images:
-    - 'http://placekitten.com/g/700/900'
-    - 'http://placekitten.com/g/700/850'
-  blurb: |
-   This was a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
-  description: |
-    [Sasha, Rae, & co]
+# -
+#   slug: personal-branding
+#   title: Personal Branding
+#   thumbnail: 'https://placekitten.com/g/360/240'
+#   images:
+#     - 'http://placekitten.com/g/700/900'
+#     - 'http://placekitten.com/g/700/850'
+#   blurb: |
+#    This was a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
+#   description: |
+
+#
