@@ -3,11 +3,11 @@
 -
   slug: spine
   title: Spine
-  thumbnail: 'https://placekitten.com/g/360/240'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452350220/robotswan.com/spine.png'
   images:
-    - 'http://placekitten.com/g/700/700'
-    - 'http://placekitten.com/g/700/900'
-    - 'http://placekitten.com/g/700/500'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452350467/robotswan.com/spine-covers.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452355393/robotswan.com/spine-cg-obliquespread.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452352417/robotswan.com/spine-fm-obliquespread.png'
   blurb: |
     *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, amateurs, and casual enthusiasts alike.
   description: |
@@ -18,12 +18,11 @@
 -
   slug: chromatic-kingdom
   title: Chromatic Kingdom
-  thumbnail: 'https://placekitten.com/g/360/240'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452356087/robotswan.com/chromatickingdom.png'
   images:
-    - 'http://placekitten.com/g/700/700'
-    - 'http://placekitten.com/g/700/800'
-    - 'http://placekitten.com/g/700/400'
-    - 'http://placekitten.com/g/700/300'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452344322/robotswan.com/PartyPigeon_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452344322/robotswan.com/aceaquila_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452355845/robotswan.com/thylacines.png'
   blurb: |
     *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
@@ -32,9 +31,9 @@
 -
   slug: airlock-403
   title: Airlock 403
-  thumbnail: 'https://placekitten.com/g/360/240'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452362762/robotswan.com/Airlock403.png'
   images:
-    - 'http://placekitten.com/g/700/550'
+    - 'http://res.cloudinary.com/veritta/image/upload/v1452362559/robotswan.com/Airlock403.png'
   blurb: |
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
