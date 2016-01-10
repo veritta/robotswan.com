@@ -99,6 +99,7 @@ h3 {
 
 .thumbGroup__item {
 	color: inherit;
+	display: block;
 	flex: 0 0 calc(33.33% - 2em);
 	margin: 1em;
 	position: relative;
