@@ -197,7 +197,7 @@ h3 {
 
 .splash {
 	background-color: #f65663;
-	background-image: url(/image/splash.jpg);
+	background-image: url(http://res.cloudinary.com/veritta/image/upload/f_auto/v1452427922/robotswan.com/splash.jpg);
 	background-position: center center;
 	background-size: cover;
 	color: white;

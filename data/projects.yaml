@@ -5,11 +5,14 @@
   title: Spine
   thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452350220/robotswan.com/thumbnails/spine.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452350467/robotswan.com/spine-covers.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452355393/robotswan.com/spine-cg-obliquespread.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto,e_auto_contrast/v1452355393/robotswan.com/spine-cg-obliquespread.png'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452352417/robotswan.com/spine-fm-obliquespread.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto,e_sharpen/v1452350467/robotswan.com/spine-covers.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452344326/robotswan.com/spine_ty.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452344324/robotswan.com/spine_pim.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452344326/robotswan.com/spine_wit.jpg'
   blurb: |
-    *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, amateurs, and casual enthusiasts alike.
+    *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, and amateur enthusiasts alike.
   description: |
     As part of an editorial project, three covers were created to suit the themes of ‘typography’, ‘poetry in motion’, and ‘women in graphic design’. A further component was the design of two articles which would be contained in the typography issue.
 
@@ -20,9 +23,8 @@
   title: Chromatic Kingdom
   thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452356087/robotswan.com/thumbnails/chromatickingdom.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344322/robotswan.com/PartyPigeon_robotswan.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344322/robotswan.com/aceaquila_robotswan.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452355845/robotswan.com/thylacines.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.png'
   blurb: |
     *Chromatic Kingdom* is an experimental 6illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
@@ -33,7 +35,7 @@
   title: Airlock 403
   thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452374561/robotswan.com/thumbnails/Airlock403.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452375003/robotswan.com/Airlock403.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452429986/robotswan.com/Airlock403.png'
   blurb: |
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
