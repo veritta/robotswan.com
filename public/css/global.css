@@ -103,6 +103,12 @@ h3 {
 	margin: 1em;
 	position: relative;
 	text-decoration: inherit;
+	transition: transform 200ms, box-shadow 200ms;
+}
+
+.thumbGroup__item:hover {
+	box-shadow: -2px 2px 15px rgba(0, 0, 0, 0.15);
+	transform: scale(1.06);
 }
 
 .thumbGroup__item__image {

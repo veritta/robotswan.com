@@ -3,16 +3,16 @@
 -
   slug: spine
   title: Spine
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452350220/robotswan.com/thumbnails/spine.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452350220/robotswan.com/thumbnails/spine.jpg'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452434674/robotswan.com/spine-cg-ob-spread.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452352417/robotswan.com/spine-fm-obliquespread.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto,e_sharpen/v1452350467/robotswan.com/spine-covers.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452431366/robotswan.com/spine-cg-spread.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452431200/robotswan.com/spine-fm-spread.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452344326/robotswan.com/spine_ty.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452344324/robotswan.com/spine_pim.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452344326/robotswan.com/spine_wit.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452434674/robotswan.com/spine-cg-ob-spread.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452352417/robotswan.com/spine-fm-obliquespread.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto,e_sharpen/v1452350467/robotswan.com/spine-covers.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452431366/robotswan.com/spine-cg-spread.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452431200/robotswan.com/spine-fm-spread.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344326/robotswan.com/spine_ty.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344324/robotswan.com/spine_pim.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452344326/robotswan.com/spine_wit.jpg'
   blurb: |
     *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, and amateur enthusiasts alike.
   description: |
@@ -23,10 +23,10 @@
 -
   slug: chromatic-kingdom
   title: Chromatic Kingdom
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452356087/robotswan.com/thumbnails/chromatickingdom.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452356087/robotswan.com/thumbnails/chromatickingdom.jpg'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.jpg'
   blurb: |
     *Chromatic Kingdom* is an experimental 6illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
@@ -35,9 +35,9 @@
 -
   slug: airlock-403
   title: Airlock 403
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/f_auto/v1452374561/robotswan.com/thumbnails/Airlock403.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452374561/robotswan.com/thumbnails/Airlock403.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1452429986/robotswan.com/Airlock403.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429986/robotswan.com/Airlock403.png'
   blurb: |
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
