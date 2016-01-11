@@ -76,6 +76,13 @@ h2 {
 	}
 }
 
+.webkitbackgroundclip h2 {
+	color: #ef0324;
+	background: url(http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452522588/robotswan.com/background-clip.jpg);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
 h3 {
 	font-family: "freight-sans-pro", sans-serif;
 	font-size: 1.5em;

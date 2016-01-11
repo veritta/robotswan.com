@@ -53,5 +53,13 @@
 
 	</script>
 
+	<script>
+		var isAndroid = navigator.userAgent.toLowerCase().indexOf('android') !== -1;
+		var div = document.createElement('div');
+
+		if ('webkitBackgroundClip' in div.style && !isAndroid)
+			document.documentElement.className += ' webkitbackgroundclip';
+	</script>
+
 </body>
 </html>
