@@ -43,6 +43,21 @@
   description: |
     As suggested by its name, the visual inspiration for this design comes from the mechanical components of air- and spacecraft. Accordingly, Airlock 403 is characterised by strong geometric shapes, subtle curves, and a suggestion of weight and interlocking parts.
 
+-
+  slug: sydney-zombie-walk
+  title: Sydney Zombie Walk
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452374561/robotswan.com/thumbnails/Airlock403.png'
+  images:
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_1392,f_auto/v1452679520/robotswan.com/SZW-home.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,e_sharpen,q_80,w_1392,f_auto/v1452679520/robotswan.com/SZW-rules.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,e_sharpen,q_80,w_1392,f_auto/v1452679520/robotswan.com/SZW-fundraising.jpg'
+  blurb: |
+      In 2015 I redesigned the website of the Sydney Zombie Walk, an annual event in which people become zombies and parade through the city's streets to raise money for the Brain Foundation.
+  description: |
+
+
+
+
 # -
 #   slug: the-swan-cipher
 #   title: The Swan Cipher
