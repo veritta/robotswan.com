@@ -28,7 +28,7 @@
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.jpg'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.jpg'
   blurb: |
-    *Chromatic Kingdom* is an experimental 6illustrative series featuring richly-coloured members of the animal kingdom.
+    *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
   description: |
     This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
 
@@ -46,15 +46,15 @@
 -
   slug: sydney-zombie-walk
   title: Sydney Zombie Walk
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452374561/robotswan.com/thumbnails/Airlock403.png'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_360,f_auto/v1452708483/robotswan.com/thumbnails/SZW.jpg'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_1392,f_auto/v1452679520/robotswan.com/SZW-home.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,e_sharpen,q_80,w_1392,f_auto/v1452679520/robotswan.com/SZW-rules.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,e_sharpen,q_80,w_1392,f_auto/v1452679520/robotswan.com/SZW-fundraising.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_1392,f_auto/v1452679520/robotswan.com/SZW-home.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_1392,f_auto/v1452679520/robotswan.com/SZW-rules.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_1392,f_auto/v1452679520/robotswan.com/SZW-fundraising.jpg'
   blurb: |
-      In 2015 I redesigned the website of the Sydney Zombie Walk, an annual event in which people become zombies and parade through the city's streets to raise money for the Brain Foundation.
+    In 2015 I redesigned the website of the Sydney Zombie Walk, an annual event in which people become zombies and parade through the streets of Sydney to raise money for the Brain Foundation.
   description: |
-
+    This task involved both the incorporation of existing assets and the creation of new graphic elements.
 
 
 
