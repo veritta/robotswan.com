@@ -16,21 +16,9 @@
   blurb: |
     *Spine* is the name of a fictional design magazine that aims to unite high-quality creative content with popular appeal, targetting professionals, and amateur enthusiasts alike.
   description: |
-    As part of an editorial project, three covers were created to suit the themes of ‘typography’, ‘poetry in motion’, and ‘women in graphic design’. A further component was the design of two articles which would be contained in the typography issue.
+    As part of an editorial project, three covers were created to suit the themes of *typography*, *poetry in motion*, and *women in graphic design*. A further component was the design of two articles which would be contained in the typography issue.
 
     *Spine* combines bold shapes and colours with strong typography to form eye-catching visuals that both reflect editorial content and target audience.
-
--
-  slug: chromatic-kingdom
-  title: Chromatic Kingdom
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452356087/robotswan.com/thumbnails/chromatickingdom.jpg'
-  images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.jpg'
-  blurb: |
-    *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
-  description: |
-    This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
 
 -
   slug: airlock-403
@@ -42,6 +30,20 @@
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
     As suggested by its name, the visual inspiration for this design comes from the mechanical components of air- and spacecraft. Accordingly, Airlock 403 is characterised by strong geometric shapes, subtle curves, and a suggestion of weight and interlocking parts.
+
+-
+  slug: the-swan-cipher
+  title: The Swan Cipher
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_360,f_auto/v1452818827/robotswan.com/thumbnails/theswanscipher.jpg'
+  images:
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,w_696,f_auto/v1452795294/robotswan.com/svenja-stare.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452818559/robotswan.com/svenja-book.jpg'
+  blurb: |
+    *The Swan Cipher* is a story set in a fictional 20th-century analogue.
+  description: |
+    In the aftermath of a civil war, the daughter of former counter-revolutionaries is drawn into a world of danger, espionage, and her parents' unfinished business.
+
+    These works are exercises in character design and visual development for the story.
 
 -
   slug: sydney-zombie-walk
@@ -56,20 +58,17 @@
   description: |
     This task involved both the incorporation of existing assets and the creation of new graphic elements.
 
-
-
-# -
-#   slug: the-swan-cipher
-#   title: The Swan Cipher
-#   thumbnail: 'https://placekitten.com/g/360/240'
-#   images:
-#     - 'http://placekitten.com/g/700/900'
-#     - 'http://placekitten.com/g/700/850'
-#     - 'http://placekitten.com/g/700/500'
-#   blurb: |
-#     *The Swan Cipher* refers to a fictional universe set in a 20th-century analogue.
-#   description: |
-#     [Svenja & co]
+-
+  slug: chromatic-kingdom
+  title: Chromatic Kingdom
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452818983/robotswan.com/thumbnails/chromatickingdom-e.jpg'
+  images:
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.jpg'
+  blurb: |
+    *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
+  description: |
+    This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
 
 # -
 #   slug: sugar-glass-crush
@@ -96,4 +95,3 @@
 #    This was a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
 #   description: |
 
-#
