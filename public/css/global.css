@@ -70,13 +70,13 @@ h2 {
 }
 
 @media (max-width: 860px) {
-	h2 {
+	h2.textured {
 		font-size: 2.5em;
 		padding-top: 0.2em;
 	}
 }
 
-.webkitbackgroundclip h2 {
+.webkitbackgroundclip h2.textured {
 	color: #ef0324;
 	background: url(http://res.cloudinary.com/veritta/image/upload/q_80,f_auto/v1452522588/robotswan.com/background-clip.jpg);
 	-webkit-background-clip: text;
