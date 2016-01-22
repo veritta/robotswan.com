@@ -55,17 +55,6 @@
   description: |
     This task involved both the incorporation of existing assets and the creation of new graphic elements.
 
--
-  slug: chromatic-kingdom
-  title: Chromatic Kingdom
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452356087/robotswan.com/thumbnails/chromatickingdom.png'
-  images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.jpg'
-  blurb: |
-    *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
-  description: |
-    This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
 
 -
   slug: sugar-glass-crush
@@ -80,17 +69,15 @@
     *Sugar Glass Crush* is the name of a story set in a high-tech not-too-distant future, centred on characters with superhuman abilities and the recreational, social, and ethical applications and repercussions of such power.
   description: |
 
-
-# -
-#   slug: personal-branding
-#   title: Personal Branding
-#   thumbnail: 'https://placekitten.com/g/360/240'
-#   images:
-#     - 'http://placekitten.com/g/700/900'
-#     - 'http://placekitten.com/g/700/850'
-#   blurb: |
-#    This was a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
-#   description: |
+-
+  slug: personal-branding
+  title: Personal Branding
+  thumbnail: 'https://placekitten.com/g/360/240'
+  images:
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1453419498/robotswan.com/thumbnails/skylerking_robotswan.png'
+  blurb: |
+   This is a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
+  description: |
 
 # -
 #   slug: the-swan-cipher
@@ -105,3 +92,15 @@
 #     In the aftermath of a civil war, the daughter of former counter-revolutionaries is drawn into a world of danger, espionage, and her parents' unfinished business.
 
 #     These works are exercises the story's character design and visual development.
+
+# -
+#   slug: chromatic-kingdom
+#   title: Chromatic Kingdom
+#   thumbnail: 'http://res.cloudinary.com/veritta/image/upload/v1452356087/robotswan.com/thumbnails/chromatickingdom.png'
+#   images:
+#     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429069/robotswan.com/PartyPigeon_robotswan.jpg'
+#     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1452429068/robotswan.com/aceaquila_robotswan.jpg'
+#   blurb: |
+#     *Chromatic Kingdom* is an experimental illustrative series featuring richly-coloured members of the animal kingdom.
+#   description: |
+#     This is a personal project designed to practise both animal drawing and the use of colour and line in abstract, unusual ways.
