@@ -28,9 +28,9 @@
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1456756667/SL-businesscards.png'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456754912/brandingset_robotswan_jdm8se.png'
   blurb: |
-   This is a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
+   This is a personal branding project in which the brief called for a typographic logo design based on the designer's initials. I chose to develop a strong geometric glyph combined with a minimalist approach for maximum visual impact.
   description: |
-   I chose a strong geometric glyph combined with a minimalist approach for maximum visual impact.
+
 
 -
   slug: airlock-403
@@ -50,9 +50,9 @@
   images:
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1453254042/robotswan.com/PerfunctoryHearts_robotswan.png'
   blurb: |
-    *Amateur Meteorology* is a fictional alternative rock band.
+    *Amateur Meteorology* is a fictional alternative rock band. I created the group to be the subject of experiments in designing music-related paraphernalia, and also because I enjoy writing the track lists of non-existent albums.
   description: |
-    I created the group to be the subject of experiments in designing music-related paraphernalia, and also because I enjoy writing the track lists of non-existent albums.
+
 
 -
   slug: sydney-zombie-walk
@@ -63,8 +63,10 @@
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_1392,f_auto/v1452679520/robotswan.com/SZW-rules.jpg'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_1392,f_auto/v1452679520/robotswan.com/SZW-fundraising.jpg'
   blurb: |
-    In 2015 I redesigned the website of the Sydney Zombie Walk, an annual event in which people don their best zombie attire and parade through the streets of Sydney to raise money for the Brain Foundation.
+    In 2015 I redesigned the website of the Sydney Zombie Walk.
   description: |
+    The Walk is an an annual event in which people don their best zombie attire and parade through the streets of Sydney to raise money for the Brain Foundation.
+
     This task involved both the incorporation of existing assets and the creation of new graphic elements.
 
     View the website [here](http://sydneyzombiewalk.com/).
@@ -84,9 +86,9 @@
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456751223/vdayraesasha_robotswan_khqvzf.png'
 
   blurb: |
-    *Sugar Glass Crush* is my pet project. It's a story set in a high-tech not-too-distant future, about young adults with superhuman abilities and how they deal with it.
+    *Sugar Glass Crush* is my pet project. It's a story set in a high-tech not-too-distant future about young adults with superhuman abilities, and serves as practice for developing my my skills in illustration, character design, and storytelling.
   description: |
-    Additionally, it serves as practice for developing my illustration and character design skills.
+
 
 
 # -
