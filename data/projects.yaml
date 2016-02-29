@@ -21,15 +21,15 @@
     *Spine* combines bold shapes and colours with strong typography to form eye-catching visuals that both reflect editorial content and target audience.
 
 -
-  slug: amateur-meteorology
-  title: Amateur Meteorology
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_360,f_auto/v1453254694/robotswan.com/thumbnails/amateurmeteorology.png'
+  slug: personal-branding
+  title: Personal Branding
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_360,f_auto/v1456758580/branding_wwzbtn.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1453254042/robotswan.com/PerfunctoryHearts_robotswan.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1456756667/SL-businesscards.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456754912/brandingset_robotswan_jdm8se.png'
   blurb: |
-    *Amateur Meteorology* is a fictional alternative rock band.
+   This is a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
   description: |
-    I created the group to be the subject of experiments in designing music-related paraphernalia, and also because I enjoy writing the track lists of non-existent albums.
 
 -
   slug: airlock-403
@@ -41,6 +41,17 @@
     *Airlock 403* is a custom typeface designed from scratch.
   description: |
     As suggested by its name, the visual inspiration for this design comes from the mechanical components of air- and spacecraft. Accordingly, Airlock 403 is characterised by strong geometric shapes, subtle curves, and a suggestion of weight and interlocking parts.
+
+-
+  slug: amateur-meteorology
+  title: Amateur Meteorology
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_360,f_auto/v1453254694/robotswan.com/thumbnails/amateurmeteorology.png'
+  images:
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1453254042/robotswan.com/PerfunctoryHearts_robotswan.png'
+  blurb: |
+    *Amateur Meteorology* is a fictional alternative rock band.
+  description: |
+    I created the group to be the subject of experiments in designing music-related paraphernalia, and also because I enjoy writing the track lists of non-existent albums.
 
 -
   slug: sydney-zombie-walk
@@ -59,30 +70,20 @@
 -
   slug: sugar-glass-crush
   title: Sugar Glass Crush
-  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_360,f_auto/v1453245704/robotswan.com/thumbnails/SGC.jpg'
+  thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_360,f_auto/v1456758988/SGCpair_opijdr.png'
   images:
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1453244692/robotswan.com/sasha-demimortal_robotswan.jpg'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1456751809/theoffensiveteam_robotswan_u2br6j.png'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1456751231/SGCpolaroid-sashagrump_robotswan_ylnp3i.png'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1456751228/rae-kitchenpolaroid_robotswan_tyhrhx.png'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1453245951/robotswan.com/sashapainting.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456751223/vdayraesasha_robotswan_khqvzf.png'
     - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_696,f_auto/v1453245040/robotswan.com/SGC-sasha-facechart_robotswan.jpg'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456751223/vdayraesasha_robotswan_khqvzf.png'
 
   blurb: |
     *Sugar Glass Crush* is my pet project. It's a story set in a high-tech not-too-distant future, about characters with superhuman abilities and how they deal with it.
   description: |
 
--
-  slug: personal-branding
-  title: Personal Branding
-  thumbnail: 'https://placekitten.com/g/360/240'
-  images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1456756667/SL-businesscards.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456754912/brandingset_robotswan_jdm8se.png'
-  blurb: |
-   This is a personal branding project in which the brief called for a typographic logo design based on the designer's initials.
-  description: |
 
 # -
 #   slug: the-swan-cipher
