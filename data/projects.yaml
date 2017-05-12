@@ -73,17 +73,19 @@
 
 
 -
-  slug: sugar-glass-crush
-  title: Sugar Glass Crush
+  slug: illustration
+  title: Illustration
   thumbnail: 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_360,f_auto/v1456758988/SGCpair_opijdr.png'
   images:
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1453244692/robotswan.com/sasha-demimortal_robotswan.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1456751809/theoffensiveteam_robotswan_u2br6j.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1456751231/SGCpolaroid-sashagrump_robotswan_ylnp3i.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1456751228/rae-kitchenpolaroid_robotswan_tyhrhx.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_85,w_696,f_auto/v1453245951/robotswan.com/sashapainting.png'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_50,w_696,f_auto/v1453245040/robotswan.com/SGC-sasha-facechart_robotswan.jpg'
-    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_90,w_696,f_auto/v1456751223/vdayraesasha_robotswan_khqvzf.png'
+    - 'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1487502541/Sasha-portrait-dec_robotswan_u1fev0.jpg'
+    -
+    'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1487502360/redheadrevision_robotswan_yd5qew.jpg'
+    -
+    'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1487502323/sashabass_robotswan_qstyxe.jpg'
+    -
+    'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1487502321/rae-lunchpainting_robotswan_d88sij.jpg'
+    -
+    'http://res.cloudinary.com/veritta/image/upload/c_scale,q_80,w_696,f_auto/v1487503479/sunnypikelets_robotswan_wouhpi.png'
 
   blurb: |
     *Sugar Glass Crush* is my pet project. It's a story set in a high-tech not-too-distant future about young adults with superhuman abilities, and serves as practice for developing my my skills in illustration, character design, and storytelling.
